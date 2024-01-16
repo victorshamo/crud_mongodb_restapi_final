@@ -2,6 +2,6 @@
 
 - Complete CRUD functionality with authentication and authorization.
 
-- Authentication going against the MongoDB database making sure the user has the correct email and password.
+- Authentication through a MongoDB database while making sure the user has the correct email and password.
 
 - API done with Node.js, Express, MongoDB, JWT.
